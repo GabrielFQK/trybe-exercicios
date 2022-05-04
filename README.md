@@ -1,4 +1,4 @@
-[![Logo da Trybe](https://i.ibb.co/Htt8yRn/Sem-nome-63-px-40-px-1.png)](https://www.betrybe.com/)
+[![Logo da Trybe](https://i.ibb.co/k265NfC/logo-trybe-removebg-preview.png)](https://www.betrybe.com/)
 
 Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[mim](https://www.linkedin.com/in/gabrielfqk/)_ enquanto estudava na **[Trybe](https://www.betrybe.com/)**
 
