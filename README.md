@@ -10,5 +10,5 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 ## Fundamentos do Desenvolvimento Web 
 
-* #### [Bloco 01](): Unix & Bash :heavy_check_mark:
-* #### [Bloco 02](): Git, GitHub & Internet 
+* #### [Bloco 01](https://github.com/GabrielFQK/trybe-exercicios/tree/main/1-fundamentos/bloco-01): Unix & Bash :heavy_check_mark:
+* #### [Bloco 02](https://github.com/GabrielFQK/trybe-exercicios/tree/main/1-fundamentos/bloco-02): Git, GitHub & Internet 
