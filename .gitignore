@@ -1,0 +1,18 @@
+### Visual Studio Code ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+.history/
+*.vsix
+.history
+.ionide
+.vscode/*.code-snippets
+*.code-workspace
+
+### Módulos ainda não realizados ###
+/2-front-end
+/3-back-end
+/4-ciencia-da-computacao
