@@ -1,8 +1,9 @@
-## Fundamentos do Desenvolvimento Web :white_check_mark:
+## Fundamentos do Desenvolvimento Web
+#### [Bloco 01](https://github.com/GabrielFQK/trybe-exercicios/tree/main/1-fundamentos/bloco-01): Unix & Bash :white_check_mark:
 
-#### [Bloco 01](https://github.com/GabrielFQK/trybe-exercicios/tree/main/1-fundamentos/bloco-01): Unix & Bash :heavy_check_mark:
+#### [Bloco 02](https://github.com/GabrielFQK/trybe-exercicios/tree/main/1-fundamentos/bloco-02): Git, GitHub & Internet :white_check_mark:
 
-#### [Bloco 02](https://github.com/GabrielFQK/trybe-exercicios/tree/main/1-fundamentos/bloco-02): Git, GitHub & Internet
+#### [Bloco 03](https://github.com/GabrielFQK/trybe-exercicios/tree/main/1-fundamentos/bloco-03): Git, GitHub & Internet :hourglass_flowing_sand:
 
 <!-- 
 
