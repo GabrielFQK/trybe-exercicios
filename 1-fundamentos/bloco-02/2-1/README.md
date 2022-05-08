@@ -1,4 +1,4 @@
-## O que é e para que serve?
+## Git & Github - O que é e para que serve?
 
 ### Fui capaz de:
 
