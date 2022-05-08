@@ -1,4 +1,11 @@
-# Para fixar
+## HTML & CSS - Estruturas de página
+
+### Fui capaz de:
+- Estruturar páginas web com HTML utilizando as tags `html`, `head` e `body`;
+- Utilizar o HTML para estruturar textos e títulos;
+- Utilizar o HTML para criar listas, _links_ e adicionar imagens;
+
+### Exercício:
 
 `index.html`
 
@@ -15,7 +22,7 @@
 </html>
 ~~~
 
-### HTML - Primeiras tags
+#### HTML - Primeiras tags
 
 1 - Crie uma lista das pessoas que você já fez amizade na Trybe.
 
@@ -23,7 +30,7 @@
 
 3 - Adicione uma imagem que está no seu computador, local.
 
-### HTML - Links externos e internos
+#### HTML - Links externos e internos
 
 1 - Crie um parágrafo para cada pessoa da sua lista.
 
