@@ -11,12 +11,6 @@
 - O que é o terminal?
 - Comandos executados no Shell.
 
-### Fui capaz de:
-
-- Executar comandos no terminal para navegar entre diretórios;
-- Executar comandos no terminal para criar e manipular arquivos e diretórios;
-- Executar comandos no terminal para realizar buscas;
-
 ### Dias:
 
 #### Bloco 01 - [Dia 3](https://github.com/GabrielFQK/trybe-exercicios/tree/main/1-fundamentos/bloco-01/1-3)
