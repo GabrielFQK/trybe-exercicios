@@ -16,7 +16,7 @@ Emojis:
 
 <details open> 
   <summary> 
-    <h2 style="display: inline; margin-left: 10px">
+    <h2 style="display: inline">
       <a href="https://github.com/GabrielFQK/trybe-exercicios/tree/main/1-fundamentos">Módulo 01</a>: Fundamentos do Desenvolvimento Web &#x1F5A5;
     </h2>
   </summary>
@@ -24,4 +24,24 @@ Emojis:
 * #### [Bloco 01](https://github.com/GabrielFQK/trybe-exercicios/tree/main/1-fundamentos/bloco-01): Unix & Bash :white_check_mark:
 * #### [Bloco 02](https://github.com/GabrielFQK/trybe-exercicios/tree/main/1-fundamentos/bloco-02): Git, GitHub & Internet :white_check_mark:
 * #### [Bloco 03](https://github.com/GabrielFQK/trybe-exercicios/tree/main/1-fundamentos/bloco-03): Introdução à HTML & CSS :hourglass_flowing_sand:
+
 </details>
+
+<!--
+
+#### [Bloco 04](https://github.com/GabrielFQK/trybe-exercicios/tree/main/1-fundamentos/bloco-04): Introdução - JavaScript :hourglass_flowing_sand:
+
+#### [Bloco 05](https://github.com/GabrielFQK/trybe-exercicios/tree/main/1-fundamentos/bloco-05): Introdução - JavaScript - Projetos :hourglass_flowing_sand:
+
+#### [Bloco 06](https://github.com/GabrielFQK/trybe-exercicios/tree/main/1-fundamentos/bloco-06): HTML & CSS avançado :hourglass_flowing_sand:
+
+#### [Bloco 07](https://github.com/GabrielFQK/trybe-exercicios/tree/main/1-fundamentos/bloco-07): JavaScript ES6 & Testes Unitários :hourglass_flowing_sand:
+
+#### [Bloco 08](https://github.com/GabrielFQK/trybe-exercicios/tree/main/1-fundamentos/bloco-08): JavaScript ES6 :hourglass_flowing_sand:
+
+#### [Bloco 09](https://github.com/GabrielFQK/trybe-exercicios/tree/main/1-fundamentos/bloco-09): Assincronicidade & Callbacks :hourglass_flowing_sand:
+
+#### [Bloco 10](https://github.com/GabrielFQK/trybe-exercicios/tree/main/1-fundamentos/bloco-10): Jest :hourglass_flowing_sand:
+
+-->
+
