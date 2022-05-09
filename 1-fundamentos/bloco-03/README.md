@@ -25,7 +25,7 @@ Para fechar com chave de ouro, desenvolvi a minha própria página, aplicando to
 - [x] 3-2: _HTML & CSS - Primeiros passos em CSS_
 
 #### Bloco 03 - [Dia 3](https://github.com/GabrielFQK/trybe-exercicios/tree/main/1-fundamentos/bloco-03/3-3)
-- [ ] 3-3: _HTML & CSS - Seletores e posicionamento_
+- [x] 3-3: _HTML & CSS - Seletores e posicionamento_
 
 #### Bloco 03 - [Dia 4](https://github.com/GabrielFQK/trybe-exercicios/tree/main/1-fundamentos/bloco-03/3-4)
 - [ ] 3-4: _HTML Semântico_
