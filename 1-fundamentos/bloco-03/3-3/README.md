@@ -14,4 +14,3 @@
   * ##### [Parte 1](https://github.com/GabrielFQK/trybe-exercicios/tree/main/1-fundamentos/bloco-03/3-3/exercicio-3/parte-1) 
   * ##### [Parte 2](https://github.com/GabrielFQK/trybe-exercicios/tree/main/1-fundamentos/bloco-03/3-3/exercicio-3/parte-2)
 * #### [Exercício 4:](https://github.com/GabrielFQK/trybe-exercicios/tree/main/1-fundamentos/bloco-03/3-3/exercicio-4) Combinações e Classes Descendentes
-
