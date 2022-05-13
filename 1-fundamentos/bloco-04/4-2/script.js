@@ -1,4 +1,4 @@
-let numbers = [1, 5, 9, 3, 19, 70, 8, 100, 2, 35, 27]
+let numbers = [5, 9, 3, 19, 70, 8, 100, 2, 35, 27]
 
 console.log('Exercício 1')
 
@@ -73,7 +73,6 @@ console.log('Exercício 7')
 menor = numbers[numbers.length - 1]
 
 for (let i = numbers.length - 1; i > -1; i -= 1) {
-  atual = numbers[i]
   if (numbers[i] < menor) {
     menor = numbers[i]
   }
