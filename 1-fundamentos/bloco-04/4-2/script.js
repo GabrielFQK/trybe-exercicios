@@ -9,10 +9,22 @@ for (let i = 0; i < numbers.length; i += 1) {
 console.log('================')
 console.log('Exercício 2')
 
-let soma = 0;
+let soma = 0
 
 for (i = 0; i < numbers.length; i += 1) {
-  soma += numbers[i] 
+  soma += numbers[i]
 }
 
-console.log(soma);
+console.log(soma)
+
+console.log('================')
+console.log('Exercício 3')
+
+let soma2 = 0
+
+for (let i = 0; i < numbers.length; i += 1) {
+  soma2 += numbers[i]
+}
+let media = soma2 / numbers.length
+
+console.log(media)
