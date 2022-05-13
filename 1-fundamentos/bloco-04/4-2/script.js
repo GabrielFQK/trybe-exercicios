@@ -37,3 +37,16 @@ if (media > 20) {
 } else {
   console.log('valor menor ou igual a 20')
 }
+
+console.log('================')
+console.log('Exercício 5')
+
+
+let maior = numbers[0]
+
+for (i = 0; i < numbers.length; i += 1) {
+  if (numbers[i] > maior) {
+    maior = numbers[i]
+  }
+}
+console.log(maior);
