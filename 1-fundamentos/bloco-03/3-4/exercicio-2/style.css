@@ -28,6 +28,10 @@ h3 {
   color: rgb(80, 170, 0);
 }
 
+a {
+  color: rgb(80, 170, 0);
+}
+
 a:hover {
   text-decoration: underline;
 }
@@ -64,7 +68,7 @@ main .container {
 
 main article,
 main aside {
-  padding: 2rem;
+  padding: 4rem;
   background: white;
   box-shadow: 0.2rem 0.2rem 0.5rem rgba(0, 0, 0, 0.25);
 }
@@ -73,7 +77,25 @@ main article {
   width: 60%;
 }
 
+main table {
+  margin-top: 2rem;
+  width: 100%;
+  padding: 2rem;
+  border-radius: 1rem;
+  border: 0.2rem solid rgb(80, 170, 0);
+}
+
+main table thead {
+  color: rgb(80, 170, 0);
+}
+
+main table tbody tr td {
+  padding-top: 2rem;
+}
+
 main aside {
+  margin-top: 2rem;
+  border-radius: 1rem;
   text-align: center;
   padding-bottom: 10rem;
   height: fit-content;
