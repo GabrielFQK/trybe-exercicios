@@ -45,6 +45,12 @@ header {
   color: rgb(241, 241, 241);
   padding-block: 2rem;
   text-align: center;
+  box-shadow: 0 0.2rem 0.5rem rgba(0, 0, 0, 0.25);
+  z-index: 10;
+}
+
+header h1 {
+  padding-top: 2rem;
 }
 
 header nav ul {
@@ -120,4 +126,17 @@ main img {
   margin: auto;
   width: 75%;
   box-shadow: 0.2rem 0.2rem 0.5rem rgba(0, 0, 0, 0.25);
+}
+
+footer {
+  background: rgb(80, 170, 0);
+  padding: 4rem;
+  color: rgb(241, 241, 241);
+  text-align: center;
+}
+
+footer a {
+  color: rgb(241, 241, 241);
+  font-weight: bold;
+  
 }
