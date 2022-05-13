@@ -43,7 +43,7 @@ console.log('Exercício 5')
 
 let maior = numbers[0]
 
-for (let i = 0; i < numbers.length; i += 1) {
+for (let i = 1; i < numbers.length; i += 1) {
   if (numbers[i] > maior) {
     maior = numbers[i]
   }
@@ -70,9 +70,9 @@ if (numImpar > 0) {
 console.log('================')
 console.log('Exercício 7')
 
-menor = numbers[numbers.length - 1]
+menor = numbers[0]
 
-for (let i = numbers.length - 1; i > -1; i -= 1) {
+for (let i = 1; i < numbers.length; i += 1) {
   if (numbers[i] < menor) {
     menor = numbers[i]
   }
@@ -85,16 +85,16 @@ console.log('Exercício 8')
 
 let numbers2 = []
 
-for (i = 1; i < 26; i+=1) {
+for (i = 1; i < 26; i += 1) {
   numbers2.push(i)
 }
 
-console.log(numbers2);
+console.log(numbers2)
 
 console.log('================')
 console.log('Exercício 9')
 
 for (let number of numbers2) {
-  console.log(number / 2);
+  console.log(number / 2)
 }
 
