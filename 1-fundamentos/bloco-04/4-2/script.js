@@ -90,3 +90,11 @@ for (i = 1; i < 26; i+=1) {
 }
 
 console.log(numbers2);
+
+console.log('================')
+console.log('Exercício 9')
+
+for (let number of numbers2) {
+  console.log(number / 2);
+}
+
