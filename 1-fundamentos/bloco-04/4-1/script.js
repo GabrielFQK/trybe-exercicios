@@ -37,3 +37,16 @@ if (numero1 > numero2 && numero1 > numero3) {
 } else {
   console.log('O terceiro número é maior')
 }
+
+console.log('================')
+console.log('Exercício 4')
+
+const value = 5
+
+if (value > 0) {
+  console.log('positive')
+} else if (value < 0) {
+  console.log('negative')
+} else {
+  console.log('zero')
+}
