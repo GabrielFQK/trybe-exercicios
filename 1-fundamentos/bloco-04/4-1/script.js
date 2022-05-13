@@ -50,3 +50,20 @@ if (value > 0) {
 } else {
   console.log('zero')
 }
+
+console.log('================')
+console.log('Exercício 5')
+
+const angulo1 = 20
+const angulo2 = 40
+const angulo3 = 120
+
+const somaAngulos = angulo1 + angulo2 + angulo3
+
+if (somaAngulos != 180) {
+  console.log('Não é um triângulo')
+} else if (angulo1 < 0 || angulo2 < 0 || angulo3 < 0) {
+  console.log('Ângulo não pode ser menor que 0')
+} else {
+  console.log('É um triângulo')
+}
