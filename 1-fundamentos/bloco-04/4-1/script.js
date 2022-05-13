@@ -22,3 +22,18 @@ if (num1 > num2) {
 } else {
   console.log('O segundo número é maior')
 }
+
+console.log('================')
+console.log('Exercício 3')
+
+const numero1 = 6
+const numero2 = 2
+const numero3 = 7
+
+if (numero1 > numero2 && numero1 > numero3) {
+  console.log('O primeiro número é maior')
+} else if (numero2 > numero1 && numero2 > numero3) {
+  console.log('O segundo número é maior')
+} else {
+  console.log('O terceiro número é maior')
+}
