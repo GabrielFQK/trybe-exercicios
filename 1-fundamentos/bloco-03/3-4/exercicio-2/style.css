@@ -4,7 +4,6 @@
   box-sizing: border-box;
   text-decoration: none;
   color: inherit;
-  list-style: none;
 }
 
 :root {
@@ -14,11 +13,23 @@
 body {
   font-size: 1.6rem;
   font-family: Arial, Helvetica, sans-serif;
+  background: rgb(241, 241, 241);
 }
 
 .container {
-  width: 110rem;
+  width: 120rem;
   margin: auto;
+}
+
+h2,
+h3 {
+  text-align: center;
+  padding-block: 2rem;
+  color: rgb(80, 170, 0);
+}
+
+a:hover {
+  text-decoration: underline;
 }
 
 header {
@@ -42,4 +53,37 @@ header nav ul li:hover {
   text-decoration: underline;
 }
 
+main .container {
+  display: flex;
+  gap: 2rem;
+}
 
+main article,
+main aside {
+  padding: 2rem;
+  background: white;
+}
+
+main article {
+  width: 60%;
+}
+
+main aside {
+  text-align: center;
+  padding-bottom: 10rem;
+  height: fit-content;
+}
+
+main p {
+  margin-block: 2rem;
+}
+
+main ul {
+  padding-left: 2rem;
+}
+
+main img {
+  display: block;
+  margin: auto;
+  width: 75%;
+}
