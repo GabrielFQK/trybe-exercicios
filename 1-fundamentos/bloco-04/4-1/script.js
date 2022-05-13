@@ -124,3 +124,16 @@ if (number1 % 2 == 0 && number2 % 2 == 0 && number3 % 2 == 0) {
   console.log('false')
 }
 
+console.log('================')
+console.log('Exercício 9')
+
+const number1a = 5
+const number2a = 1
+const number3a = 7
+
+if (number1a % 2 == 1 && number2a % 2 == 1 && number3a % 2 == 1) {
+  console.log('true')
+} else {
+  console.log('false')
+}
+
