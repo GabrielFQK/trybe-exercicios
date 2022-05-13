@@ -13,9 +13,33 @@
 
 body {
   font-size: 1.6rem;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .container {
   width: 110rem;
   margin: auto;
 }
+
+header {
+  background-color: rgb(80, 170, 0);
+  color: rgb(241, 241, 241);
+  padding-block: 2rem;
+  text-align: center;
+}
+
+header nav ul {
+  margin-top: 1rem;
+  font-size: 1.8rem;
+}
+
+header nav ul li {
+  margin-left: 2rem;
+  display: inline;
+}
+
+header nav ul li:hover {
+  text-decoration: underline;
+}
+
+
