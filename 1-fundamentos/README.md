@@ -39,7 +39,9 @@ Nesse primeiro módulo aprendi tudo que preciso saber para iniciar minha carreir
 
 #### [Bloco 02](https://github.com/GabrielFQK/trybe-exercicios/tree/main/1-fundamentos/bloco-02): Git, GitHub & Internet :white_check_mark:
 
-#### [Bloco 03](https://github.com/GabrielFQK/trybe-exercicios/tree/main/1-fundamentos/bloco-03): Introdução à HTML & CSS :hourglass_flowing_sand:
+#### [Bloco 03](https://github.com/GabrielFQK/trybe-exercicios/tree/main/1-fundamentos/bloco-03): Introdução à HTML & CSS :white_check_mark:
+
+#### [Bloco 04](https://github.com/GabrielFQK/trybe-exercicios/tree/main/1-fundamentos/bloco-04): Introdução à JavaScript e Lógica de Programação :hourglass_flowing_sand:
 
 <!--
 
