@@ -9,9 +9,9 @@ Neste bloco aprendi como estruturar páginas **HTML** estilizadas com o **CSS** 
 - Primeiro aprendi a usar as principais tags do **HTML** para criar a estrutura das páginas web
 - Depois, aprendi como usar o **CSS** para estilizar as tags, usando diferentes formas de selecionar os elementos **HTML**
 - No terceiro dia, aprendi como alterar o posicionamento dos elementos na página e como algumas propriedades específicas alteram as dimensões dos elementos
+- No último conteúdo, aprendi sobre o **significado** que cada elemento **HTML** carrega e sobre como isso impacta a acessibilidade da página e a interpretação do conteúdo por indexadores de pesquisa, como o Google
 
-<!-- No último conteúdo, aprendi sobre o **significado** que cada elemento **HTML** carrega e sobre como isso impacta a acessibilidade da página e a interpretação do conteúdo por indexadores de pesquisa, como o Google
-
+<!--
 Para fechar com chave de ouro, desenvolvi a minha própria página, aplicando todo o seu conhecimento, de acordo com a especificação do projeto final
 -->
 
@@ -28,7 +28,7 @@ Para fechar com chave de ouro, desenvolvi a minha própria página, aplicando to
 - [x] 3-3: _HTML & CSS - Seletores e posicionamento_
 
 #### Bloco 03 - [Dia 4](https://github.com/GabrielFQK/trybe-exercicios/tree/main/1-fundamentos/bloco-03/3-4)
-- [ ] 3-4: _HTML Semântico_
+- [x] 3-4: _HTML Semântico_
 
 #### Bloco 03 - [Dia 5](https://github.com/GabrielFQK/trybe-exercicios/tree/main/1-fundamentos/bloco-03/3-5)
 - [ ] 3-5: _[Projeto - HTML & CSS]()_
