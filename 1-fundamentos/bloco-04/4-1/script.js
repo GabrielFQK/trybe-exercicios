@@ -137,3 +137,17 @@ if (number1a % 2 == 1 && number2a % 2 == 1 && number3a % 2 == 1) {
   console.log('false')
 }
 
+console.log('================')
+console.log('Exercício 10')
+
+const precoCusto = 20
+const precoVenda = 50
+
+const lucro = precoVenda - (precoCusto + precoCusto * 0.2)
+
+if (precoCusto < 0 || precoVenda < 0) {
+  console.log('Valores não podem ser menores que 0')
+} else {
+  console.log('Lucro ao vender 1000 peças: ' + lucro * 1000)
+}
+
