@@ -79,3 +79,14 @@ for (let i = numbers.length - 1; i > -1; i -= 1) {
 }
 
 console.log(menor)
+
+console.log('================')
+console.log('Exercício 8')
+
+let numbers2 = []
+
+for (i = 1; i < 26; i+=1) {
+  numbers2.push(i)
+}
+
+console.log(numbers2);
