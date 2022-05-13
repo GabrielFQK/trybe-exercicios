@@ -32,6 +32,10 @@ a:hover {
   text-decoration: underline;
 }
 
+strong {
+  color: rgb(80, 170, 0);
+}
+
 header {
   background-color: rgb(80, 170, 0);
   color: rgb(241, 241, 241);
@@ -62,6 +66,7 @@ main article,
 main aside {
   padding: 2rem;
   background: white;
+  box-shadow: 0.2rem 0.2rem 0.5rem rgba(0, 0, 0, 0.25);
 }
 
 main article {
@@ -76,14 +81,21 @@ main aside {
 
 main p {
   margin-block: 2rem;
+  text-align: justify;
 }
 
 main ul {
   padding-left: 2rem;
 }
 
+main ul li {
+  margin-block: 1rem;
+}
+
 main img {
+  border-radius: 1rem;
   display: block;
   margin: auto;
   width: 75%;
+  box-shadow: 0.2rem 0.2rem 0.5rem rgba(0, 0, 0, 0.25);
 }
