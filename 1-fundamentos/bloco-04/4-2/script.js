@@ -1,4 +1,4 @@
-let numbers = [5, 9, 3, 19, 70, 8, 100, 2, 35, 27]
+let numbers = [1, 5, 9, 3, 19, 70, 8, 100, 2, 35, 27]
 
 console.log('Exercício 1')
 
@@ -43,7 +43,7 @@ console.log('Exercício 5')
 
 let maior = numbers[0]
 
-for (i = 0; i < numbers.length; i += 1) {
+for (let i = 0; i < numbers.length; i += 1) {
   if (numbers[i] > maior) {
     maior = numbers[i]
   }
@@ -55,7 +55,7 @@ console.log('Exercício 6')
 
 numImpar = 0
 
-for (i = 0; i < numbers.length; i += 1) {
+for (let i = 0; i < numbers.length; i += 1) {
   if (numbers[i] % 2 == 1) {
     numImpar += 1
   }
@@ -66,3 +66,17 @@ if (numImpar > 0) {
 } else {
   console.log('nenhum valor ímpar encontrado')
 }
+
+console.log('================')
+console.log('Exercício 7')
+
+menor = numbers[numbers.length - 1]
+
+for (let i = numbers.length - 1; i > -1; i -= 1) {
+  atual = numbers[i]
+  if (numbers[i] < menor) {
+    menor = numbers[i]
+  }
+}
+
+console.log(menor)
