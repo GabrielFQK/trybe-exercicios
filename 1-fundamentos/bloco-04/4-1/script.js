@@ -67,3 +67,25 @@ if (somaAngulos != 180) {
 } else {
   console.log('É um triângulo')
 }
+
+console.log('================')
+console.log('Exercício 6')
+
+const pecaXadrez = 'Peão'
+const pecaXadrezConvert = pecaXadrez.toLocaleLowerCase()
+
+if (pecaXadrezConvert == 'peão') {
+  console.log('o ' + pecaXadrez + ' anda uma casa a frente')
+} else if (pecaXadrezConvert == 'bispo') {
+  console.log('o ' + pecaXadrez + ' anda na diagonal')
+} else if (pecaXadrezConvert == 'cavalo') {
+  console.log('o ' + pecaXadrez + ' anda em L')
+} else if (pecaXadrezConvert == 'rainha') {
+  console.log('a ' + pecaXadrez + ' anda em todas as direções')
+} else if (pecaXadrezConvert == 'rei') {
+  console.log('o ' + pecaXadrez + ' anda uma casa para qualquer direção')
+} else if (pecaXadrezConvert == 'torre') {
+  console.log('a ' + pecaXadrez + ' anda na horizontal ou vertical')
+} else {
+  console.log('peça inválida')
+}
