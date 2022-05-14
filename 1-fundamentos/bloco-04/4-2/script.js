@@ -96,7 +96,6 @@ console.log('Exercício 9')
 
 for (let number of numbers2) {
   console.log(number / 2)
-
 }
 
 console.log('================')
@@ -107,11 +106,11 @@ for (let indice1 = 1; indice1 < numbers.length; indice1 += 1) {
     if (numbers[indice2] > numbers[indice1]) {
       let position = numbers[indice2]
       numbers[indice2] = numbers[indice1]
-      numbers[indice1] = position 
+      numbers[indice1] = position
     }
   }
 }
-console.log(numbers);
+console.log(numbers)
 
 console.log('================')
 console.log('Bônus 2')
@@ -121,9 +120,26 @@ for (let indice1 = 1; indice1 < numbers.length; indice1 += 1) {
     if (numbers[indice2] < numbers[indice1]) {
       let position = numbers[indice2]
       numbers[indice2] = numbers[indice1]
-      numbers[indice1] = position 
+      numbers[indice1] = position
     }
   }
 }
-console.log(numbers);
+console.log(numbers)
 
+console.log('================')
+console.log('Bônus 3')
+
+numbers = [5, 9, 3, 19, 70, 8, 100, 2, 35, 27]
+
+let numbersNew = []
+
+for (let i = 0; i < numbers.length; i += 1) {
+  if (numbers[i + 1] !== undefined) {
+    let newNumber = numbers[i] * numbers[i + 1]
+    numbersNew.push(newNumber)
+  } else {
+    numbersNew.push(numbers[i] * 2)
+  }
+}
+
+console.log(numbersNew)
