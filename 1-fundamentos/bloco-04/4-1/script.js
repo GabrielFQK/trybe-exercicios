@@ -1,4 +1,6 @@
+console.log('================')
 console.log('Exercício 1')
+console.log('================')
 
 const a = 10
 const b = 5
@@ -13,6 +15,7 @@ console.log(adicao, subtracao, multiplicacao, divisao, modulo)
 
 console.log('================')
 console.log('Exercício 2')
+console.log('================')
 
 const num1 = 4
 const num2 = 7
@@ -25,6 +28,7 @@ if (num1 > num2) {
 
 console.log('================')
 console.log('Exercício 3')
+console.log('================')
 
 const numero1 = 6
 const numero2 = 2
@@ -40,6 +44,7 @@ if (numero1 > numero2 && numero1 > numero3) {
 
 console.log('================')
 console.log('Exercício 4')
+console.log('================')
 
 const value = 5
 
@@ -53,6 +58,7 @@ if (value > 0) {
 
 console.log('================')
 console.log('Exercício 5')
+console.log('================')
 
 const angulo1 = 20
 const angulo2 = 40
@@ -70,49 +76,52 @@ if (somaAngulos != 180) {
 
 console.log('================')
 console.log('Exercício 6')
+console.log('================')
 
 const pecaXadrez = 'Peão'
 const pecaXadrezConvert = pecaXadrez.toLocaleLowerCase()
 
 if (pecaXadrezConvert == 'peão') {
-  console.log('o ' + pecaXadrez + ' anda uma casa a frente')
+  console.log('O ' + pecaXadrez + ' se move uma casa a frente')
 } else if (pecaXadrezConvert == 'bispo') {
-  console.log('o ' + pecaXadrez + ' anda na diagonal')
+  console.log('O ' + pecaXadrez + ' se move na diagonal')
 } else if (pecaXadrezConvert == 'cavalo') {
-  console.log('o ' + pecaXadrez + ' anda em L')
+  console.log('O ' + pecaXadrez + ' se move em formato de L')
 } else if (pecaXadrezConvert == 'rainha') {
-  console.log('a ' + pecaXadrez + ' anda em todas as direções')
+  console.log('A ' + pecaXadrez + ' se move em todas as direções')
 } else if (pecaXadrezConvert == 'rei') {
-  console.log('o ' + pecaXadrez + ' anda uma casa para qualquer direção')
+  console.log('O ' + pecaXadrez + ' Se move uma casa para qualquer direção')
 } else if (pecaXadrezConvert == 'torre') {
-  console.log('a ' + pecaXadrez + ' anda na horizontal ou vertical')
+  console.log('A ' + pecaXadrez + ' Se move na horizontal ou vertical')
 } else {
-  console.log('peça inválida')
+  console.log('Peça inválida')
 }
 
 console.log('================')
 console.log('Exercício 7')
+console.log('================')
 
 const nota = 60
 
 if (nota >= 90) {
-  console.log('A')
+  console.log('Nota A')
 } else if (nota >= 80) {
-  console.log('B')
+  console.log('Nota B')
 } else if (nota >= 70) {
-  console.log('C')
+  console.log('Nota C')
 } else if (nota >= 60) {
-  console.log('D')
+  console.log('Nota D')
 } else if (nota >= 50) {
-  console.log('E')
+  console.log('Nota E')
 } else if (nota < 50) {
-  console.log('F')
+  console.log('Nota F')
 } else if (nota < 0 || nota > 100) {
-  console.log('nota inválida')
+  console.log('Nota inválida')
 }
 
 console.log('================')
 console.log('Exercício 8')
+console.log('================')
 
 const number1 = 2
 const number2 = 6
@@ -126,6 +135,7 @@ if (number1 % 2 == 0 && number2 % 2 == 0 && number3 % 2 == 0) {
 
 console.log('================')
 console.log('Exercício 9')
+console.log('================')
 
 const number1a = 5
 const number2a = 1
@@ -139,6 +149,7 @@ if (number1a % 2 == 1 && number2a % 2 == 1 && number3a % 2 == 1) {
 
 console.log('================')
 console.log('Exercício 10')
+console.log('================')
 
 const precoCusto = 20
 const precoVenda = 50
@@ -153,6 +164,7 @@ if (precoCusto < 0 || precoVenda < 0) {
 
 console.log('================')
 console.log('Exercício 11')
+console.log('================')
 
 const salarioBruto = 3000
 let inss
@@ -184,4 +196,4 @@ if (salarioBase <= 1903.98) {
 
 const salarioLiquido = salarioBase - ir
 
-console.log(salarioLiquido)
+console.log('O salário Líquido é: ' + salarioLiquido)
