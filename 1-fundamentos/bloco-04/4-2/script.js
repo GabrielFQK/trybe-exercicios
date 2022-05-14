@@ -113,3 +113,17 @@ for (let indice1 = 1; indice1 < numbers.length; indice1 += 1) {
 }
 console.log(numbers);
 
+console.log('================')
+console.log('Bônus 2')
+
+for (let indice1 = 1; indice1 < numbers.length; indice1 += 1) {
+  for (let indice2 = 0; indice2 < indice1; indice2 += 1) {
+    if (numbers[indice2] < numbers[indice1]) {
+      let position = numbers[indice2]
+      numbers[indice2] = numbers[indice1]
+      numbers[indice1] = position 
+    }
+  }
+}
+console.log(numbers);
+
