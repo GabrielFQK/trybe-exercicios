@@ -27,7 +27,7 @@ Neste bloco aprendi a implementar lógica nas minhas páginas, tornando-as verda
 
 #### Bloco 04 - [Dia 2](https://github.com/GabrielFQK/trybe-exercicios/tree/main/fundamentos/bloco-04/4-2)
 
-- [ ] 4-2: _JavaScript - Array e loop For_
+- [x] 4-2: _JavaScript - Array e loop For_
 
 #### Bloco 04 - [Dia 3](https://github.com/GabrielFQK/trybe-exercicios/tree/main/fundamentos/bloco-04/4-3)
 
