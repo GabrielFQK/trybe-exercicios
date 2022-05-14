@@ -20,23 +20,23 @@ Neste bloco aprendi a implementar lógica nas minhas páginas, tornando-as verda
 
 ### Dias:
 
-#### Bloco 04 - [Dia 1](https://github.com/GabrielFQK/trybe-exercicios/tree/main/fundamentos/bloco-04/4-1)
+#### Bloco 04 - [Dia 1](https://github.com/GabrielFQK/trybe-exercicios/tree/main/1-fundamentos/bloco-04/4-1)
 
 - [x] 4-1: _Introdução - JavaScript_
 - [x] 4-1: _JavaScript - Primeiros passos_
 
-#### Bloco 04 - [Dia 2](https://github.com/GabrielFQK/trybe-exercicios/tree/main/fundamentos/bloco-04/4-2)
+#### Bloco 04 - [Dia 2](https://github.com/GabrielFQK/trybe-exercicios/tree/main/1-fundamentos/bloco-04/4-2)
 
 - [x] 4-2: _JavaScript - Array e loop For_
 
-#### Bloco 04 - [Dia 3](https://github.com/GabrielFQK/trybe-exercicios/tree/main/fundamentos/bloco-04/4-3)
+#### Bloco 04 - [Dia 3](https://github.com/GabrielFQK/trybe-exercicios/tree/main/1-fundamentos/bloco-04/4-3)
 
 - [ ] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
 
-#### Bloco 04 - [Dia 4](https://github.com/GabrielFQK/trybe-exercicios/tree/main/fundamentos/bloco-04/4-4)
+#### Bloco 04 - [Dia 4](https://github.com/GabrielFQK/trybe-exercicios/tree/main/1-fundamentos/bloco-04/4-4)
 
 - [ ] 4-4: _JavaScript - Objetos e funções_
 
-#### Bloco 04 - [Dia 5](https://github.com/GabrielFQK/trybe-exercicios/tree/main/fundamentos/bloco-04/4-5)
+#### Bloco 04 - [Dia 5](https://github.com/GabrielFQK/trybe-exercicios/tree/main/1-fundamentos/bloco-04/4-5)
 
 - [ ] 4-5: _Projeto - Playground Functions_
