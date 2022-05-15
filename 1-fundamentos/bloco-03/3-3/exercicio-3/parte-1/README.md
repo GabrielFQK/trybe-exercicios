@@ -1,5 +1,7 @@
 ## Agrupamento de Seletores e Pseudoclasses
 
+![Preview da Página](preview.jpg)
+
 ### Parte I
 
 `index.html`

@@ -1,5 +1,7 @@
 ## HTML & CSS - Primeiros passos em CSS
 
+![Preview da Página](preview.jpg)
+
 ### Fui capaz de:
 - Criar regras de estilo para tags HTML utilizando o CSS;
 - Utilizar os seletores de `tag`, `id` e `class` para aplicar regras de CSS;

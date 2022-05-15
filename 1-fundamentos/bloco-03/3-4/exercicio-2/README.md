@@ -1,5 +1,7 @@
 ## Agora a prática
 
+![Preview da Página](preview.jpg)
+
 `index.html`
 
 ~~~html

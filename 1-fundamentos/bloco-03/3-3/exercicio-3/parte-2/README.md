@@ -1,5 +1,7 @@
 ## Agrupamento de Seletores e Pseudoclasses
 
+![Preview da Página](preview.jpg)
+
 ### Parte II
 
 Para o próximo exercício, você não deve atribuir nenhuma classe ou id aos componentes, mas apenas utilizar pseudoclasses para individualizar cada elemento!
