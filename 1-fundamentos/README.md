@@ -3,15 +3,15 @@
 Nesse primeiro módulo aprendi tudo que preciso saber para iniciar minha carreira no mundo do desenvolvimento Web, virando uma pessoa preparada para os módulos de front-end e back-end.
 
 > Para começar, estudei um pouco sobre um famoso tipo de sistema operacional chamado UNIX. Coloquei a mão na massa e executei alguns comandos no terminal.
-> 
+>
 > Depois de entender como os comandos funcionam e de já ter criado meus primeiros scripts, aprendi a usar o Git para guardá-los de forma segura. Além disso, entendi também o que é a Internet e como ela funciona.
-> 
+>
 > Então, comecei a parte mais divertida: o desenvolvimento web. Aqui aprendi a estruturar documentos HTML, estilizá-los com o CSS e criar comportamentos customizados com o JavaScript!
 
 <!--
 
 > Após esse primeiro ciclo de aprendizado, aprendi sobre como criar sites responsivos e com CSS elegante e eficiente.
-  
+
 > Aprendi também a como utilizar o JavaScript em sua plenitude, utilizando recursos avançados como HOF, Código assíncrono, Testes unitários entre outras coisas incríveis!
 
 -->
@@ -40,6 +40,8 @@ Nesse primeiro módulo aprendi tudo que preciso saber para iniciar minha carreir
 #### [Bloco 02](https://github.com/GabrielFQK/trybe-exercicios/tree/main/1-fundamentos/bloco-02): Git, GitHub & Internet :white_check_mark:
 
 #### [Bloco 03](https://github.com/GabrielFQK/trybe-exercicios/tree/main/1-fundamentos/bloco-03): Introdução à HTML & CSS :white_check_mark:
+
+- ##### [Projeto Lessons Learned](https://github.com/GabrielFQK/lessons-learned) :rocket:
 
 #### [Bloco 04](https://github.com/GabrielFQK/trybe-exercicios/tree/main/1-fundamentos/bloco-04): Introdução à JavaScript e Lógica de Programação :hourglass_flowing_sand:
 
