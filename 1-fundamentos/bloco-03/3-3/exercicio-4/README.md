@@ -1,5 +1,7 @@
 ## Combinações e Classes Descendentes
 
+![Preview da Página](preview.jpg)
+
 `index.html`
 
 ~~~html

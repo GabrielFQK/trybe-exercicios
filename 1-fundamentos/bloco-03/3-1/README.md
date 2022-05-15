@@ -1,11 +1,14 @@
 ## HTML & CSS - Estruturas de página
 
+![Preview da Página](preview.jpg)
+
 ### Fui capaz de:
 - Estruturar páginas web com HTML utilizando as tags `html`, `head` e `body`;
 - Utilizar o HTML para estruturar textos e títulos;
 - Utilizar o HTML para criar listas, _links_ e adicionar imagens;
 
 ### Exercício:
+
 
 `index.html`
 

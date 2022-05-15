@@ -1,5 +1,7 @@
 ## Visualizando o Box Model na prática
 
+![Preview da Página](preview.jpg)
+
 `index.html`
 
 ~~~html
