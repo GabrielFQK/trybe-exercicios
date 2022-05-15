@@ -16,13 +16,16 @@ Depois de ter uma visão geral, foquei no **Git**, um sistema de controle de ver
 - Como subir meu repositório local para o **GitHub**?
 - O que é _Branch_, _Merge_, _Commit_?
 
-### Dias: 
+### Dias:
 
 #### Bloco 02 - [Dia 1](https://github.com/GabrielFQK/trybe-exercicios/tree/main/1-fundamentos/bloco-02/2-1)
+
 - [x] 2-1: _O que é e para que serve?_
 
 #### Bloco 02 - [Dia 2](https://github.com/GabrielFQK/trybe-exercicios/tree/main/1-fundamentos/bloco-02/2-2)
+
 - [x] 2-2: _Entendendo os comandos_
 
 #### Bloco 02 - [Dia 3](https://github.com/GabrielFQK/trybe-exercicios/tree/main/1-fundamentos/bloco-02/2-3)
+
 - [x] 2-3: _Internet - Entendendo como ela funciona_
