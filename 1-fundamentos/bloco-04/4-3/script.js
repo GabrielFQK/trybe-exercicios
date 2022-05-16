@@ -15,3 +15,16 @@ for (let i = fat; i > 0; i -= 1) {
 }
 
 console.log(`Fatorial: \n${fat}! = ${contador}`)
+
+console.log('================')
+console.log('Exercício 2')
+console.log('================')
+
+let palavra = 'paçoquinha'
+let palavraInvertida = ''
+
+for (let i = palavra.length - 1; i >= 0; i -= 1) {
+  palavraInvertida += palavra[i]
+}
+
+console.log(`A palavra "${palavra}" ao contrário ficaria: "${palavraInvertida}"`)
