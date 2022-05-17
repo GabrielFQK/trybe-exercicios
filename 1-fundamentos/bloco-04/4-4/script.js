@@ -17,3 +17,11 @@ console.log('================')
 info['recorrente'] = 'Sim'
 
 console.log(info)
+
+console.log('================')
+console.log('Exercício 3')
+console.log('================')
+
+for (let chave in info) {
+  console.log(chave);
+}
