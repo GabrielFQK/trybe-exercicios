@@ -1,3 +1,7 @@
+// Parte I
+
+console.log('================')
+console.log('Parte I')
 console.log('================')
 console.log('Exercício 1')
 console.log('================')
@@ -92,3 +96,27 @@ console.log('Exercício 8')
 console.log('================')
 
 console.log(`${leitor.nome} tem ${leitor.livrosFavoritos.length} livros favoritos`)
+
+// Parte II
+
+console.log('================')
+console.log('Parte II')
+console.log('================')
+console.log('Exercício 1')
+console.log('================')
+
+let palavra = 'arara'
+
+function verificarPalindromo(palavra) {
+  let palavraInvertida = palavra.split('')
+  palavraInvertida = palavraInvertida.reverse()
+  palavraInvertida = palavraInvertida.join('')
+
+  if (palavra === palavraInvertida) {
+    return true
+  } else {
+    return false
+  }
+}
+
+console.log(verificarPalindromo(palavra))
