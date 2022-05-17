@@ -31,7 +31,7 @@ Neste bloco aprendi a implementar lógica nas minhas páginas, tornando-as verda
 
 #### Bloco 04 - [Dia 3](https://github.com/GabrielFQK/trybe-exercicios/tree/main/1-fundamentos/bloco-04/4-3)
 
-- [ ] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
+- [x] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
 
 #### Bloco 04 - [Dia 4](https://github.com/GabrielFQK/trybe-exercicios/tree/main/1-fundamentos/bloco-04/4-4)
 
