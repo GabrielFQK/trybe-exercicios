@@ -1,4 +1,4 @@
-## Bloco N: Nome do bloco
+## Bloco 04 - Introdução à JavaScript e Lógica de Programação
 
 Neste bloco aprendi a implementar lógica nas minhas páginas, tornando-as verdadeiramente interativas e dinâmicas!
 
