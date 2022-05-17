@@ -61,6 +61,8 @@ console.log('================')
 console.log('Exercício 4')
 console.log('================')
 
+let maiorPrimo = 0
+
 let numeroMaximo = 50
 let contagemDeNumerosPrimos = 0
 let contadorDeNumeros = 0
@@ -74,11 +76,12 @@ for (let numero = 2; numero <= numeroMaximo; numero += 1) {
 
   if (contadorDeNumeros === 2) {
     contagemDeNumerosPrimos += 1
+    maiorPrimo = numero
   }
   contadorDeNumeros = 0
 }
 
-console.log(`Há ${contagemDeNumerosPrimos} números primos entre 0 e ${numeroMaximo}`)
+console.log(`Há ${contagemDeNumerosPrimos} números primos entre 0 e ${numeroMaximo}, sendo o maior ${maiorPrimo}`)
 
 console.log('================')
 console.log('Bônus 1')
