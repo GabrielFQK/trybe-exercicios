@@ -85,3 +85,10 @@ leitor.livrosFavoritos.push({
   editora: 'Rocco'
 })
 
+console.log(leitor)
+
+console.log('================')
+console.log('Exercício 8')
+console.log('================')
+
+console.log(`${leitor.nome} tem ${leitor.livrosFavoritos.length} livros favoritos`)
