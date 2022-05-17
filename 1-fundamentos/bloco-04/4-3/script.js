@@ -77,4 +77,24 @@ for (let numero = 2; numero <= numeroMaximo; numero += 1) {
   }
   contadorDeNumeros = 0
 }
+
 console.log(`Há ${contagemDeNumerosPrimos} números primos entre 0 e ${numeroMaximo}`)
+
+console.log('================')
+console.log('Bônus 1')
+console.log('================')
+
+let n = 5
+let quadrado = ''
+
+for (let colunas = 1; colunas <= n; colunas += 1) {
+  for (let linhas = 0; linhas <= n; linhas += 1) {
+    if (linhas < n) {
+      quadrado += '*'
+    } else {
+      quadrado += '\n'
+    }
+  }
+}
+
+console.log(quadrado)
