@@ -101,3 +101,19 @@ for (let colunas = 1; colunas <= n; colunas += 1) {
 }
 
 console.log(quadrado)
+
+console.log('================')
+console.log('Bônus 2')
+console.log('================')
+
+let triangulo = ''
+
+for (let linhas = 1; linhas <= n; linhas += 1) {
+  for (let asteriscos = 1; asteriscos <= linhas; asteriscos += 1) {
+    triangulo += '*'
+    if (asteriscos == linhas) {
+      triangulo += '\n'
+    }
+  }
+}
+console.log(triangulo)
