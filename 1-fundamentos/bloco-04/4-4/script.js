@@ -9,3 +9,11 @@ let info = {
 }
 
 console.log(`Bem-vinda, ${info.personagem}!`)
+
+console.log('================')
+console.log('Exercício 2')
+console.log('================')
+
+info['recorrente'] = 'Sim'
+
+console.log(info)
