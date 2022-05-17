@@ -23,5 +23,13 @@ console.log('Exercício 3')
 console.log('================')
 
 for (let chave in info) {
-  console.log(chave);
+  console.log(chave)
+}
+
+console.log('================')
+console.log('Exercício 4')
+console.log('================')
+
+for (let chave in info) {
+  console.log(info[chave])
 }
