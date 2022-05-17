@@ -116,4 +116,24 @@ for (let linhas = 1; linhas <= n; linhas += 1) {
     }
   }
 }
+
 console.log(triangulo)
+
+console.log('================')
+console.log('Bônus 3')
+console.log('================')
+
+let trianguloInvertido = ''
+for (let linhas = 1; linhas <= n; linhas += 1) {
+  for (let espacos = n - linhas; espacos >= 0; espacos -= 1) {
+    if (espacos === 0) {
+      for (let asteriscos = 1; asteriscos <= linhas; asteriscos += 1) {
+        trianguloInvertido += '*'
+      }
+    }
+    trianguloInvertido += ' '
+  }
+  trianguloInvertido += '\n'
+}
+
+console.log(trianguloInvertido)
