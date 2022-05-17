@@ -56,3 +56,25 @@ for (let i = 0; i < array.length; i += 1) {
 
 console.log(`A maior palavra do array é: ${maiorPalavraDoArray}`)
 console.log(`A menor palavra do array é: ${menorPalavraDoArray}`)
+
+console.log('================')
+console.log('Exercício 4')
+console.log('================')
+
+let numeroMaximo = 50
+let contagemDeNumerosPrimos = 0
+let contadorDeNumeros = 0
+
+for (let numero = 2; numero <= numeroMaximo; numero += 1) {
+  for (let primo = 1; primo <= numero; primo += 1) {
+    if (numero % primo === 0) {
+      contadorDeNumeros += 1
+    }
+  }
+
+  if (contadorDeNumeros === 2) {
+    contagemDeNumerosPrimos += 1
+  }
+  contadorDeNumeros = 0
+}
+console.log(`Há ${contagemDeNumerosPrimos} números primos entre 0 e ${numeroMaximo}`)
