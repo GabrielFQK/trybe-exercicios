@@ -105,7 +105,7 @@ console.log('================')
 console.log('Exercício 1')
 console.log('================')
 
-let palavra = 'arara'
+let palavra = 'trybe'
 
 function verificarPalindromo(palavra) {
   let palavraInvertida = palavra.split('').reverse().join('')
@@ -227,3 +227,15 @@ function somaDeNumerosAteN(numero) {
 }
 
 console.log(somaDeNumerosAteN(n))
+
+console.log('================')
+console.log('Exercício 7')
+console.log('================')
+
+function verificarFinalDaPalavra(palavra, final) {
+  return palavra.endsWith(final) ? true : false
+}
+
+let final = 'be'
+
+console.log(verificarFinalDaPalavra(palavra, final))
