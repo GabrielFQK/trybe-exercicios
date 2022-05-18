@@ -108,9 +108,7 @@ console.log('================')
 let palavra = 'arara'
 
 function verificarPalindromo(palavra) {
-  let palavraInvertida = palavra.split('')
-  palavraInvertida = palavraInvertida.reverse()
-  palavraInvertida = palavraInvertida.join('')
+  let palavraInvertida = palavra.split('').reverse().join('')
 
   if (palavra === palavraInvertida) {
     return true
