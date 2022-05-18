@@ -176,3 +176,32 @@ function nomeComMaisCaracteres(arrayDeNomes) {
 }
 
 console.log(nomeComMaisCaracteres(arrayDeNomes))
+
+console.log('================')
+console.log('Exercício 5')
+console.log('================')
+
+let arrayDeInteiros3 = [2, 3, 2, 5, 8, 2, 3]
+
+function valorQueMaisRepete(arrayDeInteiros) {
+  let contagemDeRepeticao = 0
+  let maisRepetido = arrayDeInteiros[0]
+  let contagemDoMaisRepetido = 0
+
+  for (let indice = 0; indice < arrayDeInteiros.length; indice += 1) {
+    contagemDeRepeticao = 0
+    for (let indice2 = 0; indice2 < arrayDeInteiros.length; indice2 += 1) {
+      if (arrayDeInteiros[indice] === arrayDeInteiros[indice2]) {
+        contagemDeRepeticao += 1
+        contagemDoMaisRepetido = contagemDeRepeticao
+      }
+    }
+
+    if (contagemDeRepeticao > contagemDoMaisRepetido) {
+      maisRepetido = arrayDeInteiros[indice]
+    }
+  }
+  return maisRepetido
+}
+
+console.log(valorQueMaisRepete(arrayDeInteiros3))
