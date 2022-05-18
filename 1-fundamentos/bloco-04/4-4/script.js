@@ -120,3 +120,21 @@ function verificarPalindromo(palavra) {
 }
 
 console.log(verificarPalindromo(palavra))
+
+console.log('================')
+console.log('Exercício 2')
+console.log('================')
+
+let arrayDeInteiros = [2, 3, 6, 7, 10, 1]
+
+function indiceDoMaiorValor(arrayDeInteiros) {
+  let maiorValor = arrayDeInteiros[0]
+
+  for (let indice = 0; indice < arrayDeInteiros.length; indice += 1) {
+    if (arrayDeInteiros[indice] >= maiorValor) {
+      maiorValor = arrayDeInteiros[indice]
+    }
+  }
+  return arrayDeInteiros.indexOf(maiorValor)
+}
+console.log(indiceDoMaiorValor(arrayDeInteiros))
