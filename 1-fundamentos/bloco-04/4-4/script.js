@@ -138,3 +138,22 @@ function indiceDoMaiorValor(arrayDeInteiros) {
   return arrayDeInteiros.indexOf(maiorValor)
 }
 console.log(indiceDoMaiorValor(arrayDeInteiros))
+
+console.log('================')
+console.log('Exercício 3')
+console.log('================')
+
+let arrayDeInteiros2 = [2, 4, 6, 7, 10, 0, -3]
+
+function indiceDoMenorValor(arrayDeInteiros) {
+  let menorValor = arrayDeInteiros[arrayDeInteiros.length - 1]
+
+  for (let indice = arrayDeInteiros.length; indice >= 0; indice -= 1) {
+    if (arrayDeInteiros[indice] <= menorValor) {
+      menorValor = arrayDeInteiros[indice]
+    }
+  }
+  return arrayDeInteiros.indexOf(menorValor)
+}
+
+console.log(indiceDoMenorValor(arrayDeInteiros2))
