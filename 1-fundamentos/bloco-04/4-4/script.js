@@ -205,3 +205,25 @@ function valorQueMaisRepete(arrayDeInteiros) {
 }
 
 console.log(valorQueMaisRepete(arrayDeInteiros3))
+
+console.log('================')
+console.log('Exercício 6')
+console.log('================')
+
+let n = 5
+
+function somaDeNumerosAteN(numero) {
+  let soma = 0
+
+  for (let i = 0; i <= numero; i += 1) {
+    soma += i
+  }
+
+  if (numero < 0) {
+    return "'n' não pode ser um número negativo"
+  }
+
+  return soma
+}
+
+console.log(somaDeNumerosAteN(n))
