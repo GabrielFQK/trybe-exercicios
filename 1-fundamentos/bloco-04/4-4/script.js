@@ -157,3 +157,24 @@ function indiceDoMenorValor(arrayDeInteiros) {
 }
 
 console.log(indiceDoMenorValor(arrayDeInteiros2))
+
+console.log('================')
+console.log('Exercício 4')
+console.log('================')
+
+let arrayDeNomes = ['José', 'Lucas', 'Nádia', 'Fernanda', 'Cairo', 'Joana']
+
+function nomeComMaisCaracteres(arrayDeNomes) {
+  let contadorDeCaracteres = 0
+  let maisCaracteresAtual = arrayDeNomes[0]
+
+  for (let indice = 0; indice < arrayDeNomes.length; indice += 1) {
+    contadorDeCaracteres = arrayDeNomes[indice].split('').length
+    if (contadorDeCaracteres > maisCaracteresAtual.length) {
+      maisCaracteresAtual = arrayDeNomes[indice]
+    }
+  }
+  return maisCaracteresAtual
+}
+
+console.log(nomeComMaisCaracteres(arrayDeNomes))
