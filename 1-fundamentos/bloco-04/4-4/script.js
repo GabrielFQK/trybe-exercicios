@@ -233,7 +233,7 @@ console.log('Exercício 7')
 console.log('================')
 
 function verificarFinalDaPalavra(palavra, final) {
-  return palavra.endsWith(final) ? true : false
+  return palavra.endsWith(final)
 }
 
 let final = 'be'
