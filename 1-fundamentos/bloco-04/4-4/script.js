@@ -184,23 +184,23 @@ console.log('================')
 let arrayDeInteiros3 = [2, 3, 2, 5, 8, 2, 3]
 
 function valorQueMaisRepete(arrayDeInteiros) {
-  let contagemDeRepeticao = 0
+  let contagemMaxima = 1
   let maisRepetido = arrayDeInteiros[0]
-  let contagemDoMaisRepetido = 0
+  let contador = 1
 
-  for (let indice = 0; indice < arrayDeInteiros.length; indice += 1) {
-    contagemDeRepeticao = 0
-    for (let indice2 = 0; indice2 < arrayDeInteiros.length; indice2 += 1) {
-      if (arrayDeInteiros[indice] === arrayDeInteiros[indice2]) {
-        contagemDeRepeticao += 1
-        contagemDoMaisRepetido = contagemDeRepeticao
-      }
+  for (let i = 1; i < arrayDeInteiros.length; i += 1) {
+    if (arrayDeInteiros[i] === arrayDeInteiros[i - 1]) {
+      contador += 1
+    } else {
+      contador = 1
     }
 
-    if (contagemDeRepeticao > contagemDoMaisRepetido) {
-      maisRepetido = arrayDeInteiros[indice]
+    if (contador > contagemMaxima) {
+      contagemMaxima = contador
+      maisRepetido = arrayDeInteiros[i - 1]
     }
   }
+
   return maisRepetido
 }
 
