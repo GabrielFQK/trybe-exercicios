@@ -74,9 +74,12 @@
       }
       paragraphToUppercase(paragraph)
 
-      for (const element of paragraph) {
-        console.log(element.innerText)
+      function showParagraphContentOnConsole(paragraph) {
+        for (const element of paragraph) {
+          console.log(element.innerText)
+        }
       }
+      showParagraphContentOnConsole(paragraph)
 
       /*
         Aqui você vai modificar os elementos já existentes utilizando apenas as funções:
