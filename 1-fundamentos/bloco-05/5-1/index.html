@@ -56,7 +56,10 @@
       changeMainContentColor(mainContent)
 
       const centerContent = document.getElementsByTagName('section')
-      centerContent[0].style.backgroundColor = 'white'
+      function changeCenterContentColor(centerContent) {
+        return (centerContent[0].style.backgroundColor = 'white')
+      }
+      changeCenterContentColor(centerContent)
 
       const title = document.getElementsByClassName('title')
       title[0].innerText = 'Exercício 5.1 - JavaScript'
