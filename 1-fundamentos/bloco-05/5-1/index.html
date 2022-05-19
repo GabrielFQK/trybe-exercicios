@@ -44,55 +44,44 @@
     </main>
     <script>
       const paragraph = document.getElementsByTagName('p')
-      function changeParagraph(paragraph) {
-        return (paragraph[1].innerText = 'Me vejo daqui 2 anos como um grande desenvolvedor Front-end!')
-      }
-      changeParagraph(paragraph)
-
       const mainContent = document.getElementsByClassName('main-content')
-      function changeMainContentColor(mainContent) {
-        return (mainContent[0].style.backgroundColor = 'rgb(76,164,109)')
-      }
-      changeMainContentColor(mainContent)
-
       const centerContent = document.getElementsByTagName('section')
-      function changeCenterContentColor(centerContent) {
-        return (centerContent[0].style.backgroundColor = 'white')
-      }
-      changeCenterContentColor(centerContent)
-
       const title = document.getElementsByClassName('title')
-      function correctTitle(title) {
-        return (title[0].innerText = 'Exercício 5.1 - JavaScript')
-      }
+
+      changeParagraph(paragraph)
+      changeMainContentColor(mainContent)
+      changeCenterContentColor(centerContent)
       correctTitle(title)
+      paragraphToUppercase(paragraph)
+      showParagraphContentOnConsole(paragraph)
+
+      function changeParagraph(paragraph) {
+        paragraph[1].innerText = 'Me vejo daqui 2 anos como um grande desenvolvedor Front-end!'
+      }
+
+      function changeMainContentColor(mainContent) {
+        mainContent[0].style.backgroundColor = 'rgb(76,164,109)'
+      }
+
+      function changeCenterContentColor(centerContent) {
+        centerContent[0].style.backgroundColor = 'white'
+      }
+
+      function correctTitle(title) {
+        title[0].innerText = 'Exercício 5.1 - JavaScript'
+      }
 
       function paragraphToUppercase(paragraph) {
         for (const element of paragraph) {
           element.style.textTransform = 'uppercase'
         }
       }
-      paragraphToUppercase(paragraph)
 
       function showParagraphContentOnConsole(paragraph) {
         for (const element of paragraph) {
           console.log(element.innerText)
         }
       }
-      showParagraphContentOnConsole(paragraph)
-
-      /*
-        Aqui você vai modificar os elementos já existentes utilizando apenas as funções:
-        - document.getElementById()
-        - document.getElementsByClassName()
-        - document.getElementsByTagName()
-        1. Crie uma função que mude o texto na tag <p> para uma descrição de como você se vê daqui a 2 anos. (Não gaste tempo pensando no texto e sim realizando o exercício)
-        2. Crie uma função que mude a cor do quadrado amarelo para o verde da Trybe (rgb(76,164,109)).
-        3. Crie uma função que mude a cor do quadrado vermelho para branco.
-        4. Crie uma função que corrija o texto da tag <h1>.
-        5. Crie uma função que modifique todo o texto da tag <p> para maiúsculo.
-        6. Crie uma função que exiba o conteúdo de todas as tags <p> no console.
-        */
     </script>
   </body>
 </html>
