@@ -44,7 +44,10 @@
     </main>
     <script>
       const paragraph = document.getElementsByTagName('p')
-      paragraph[1].innerText = 'Me vejo daqui 2 anos como um grande desenvolvedor Front-end!'
+      function changeParagraph(paragraph) {
+        return (paragraph[1].innerText = 'Me vejo daqui 2 anos como um grande desenvolvedor Front-end!')
+      }
+      changeParagraph(paragraph)
 
       const mainContent = document.getElementsByClassName('main-content')
       mainContent[0].style.backgroundColor = 'rgb(76,164,109)'
