@@ -62,7 +62,10 @@
       changeCenterContentColor(centerContent)
 
       const title = document.getElementsByClassName('title')
-      title[0].innerText = 'Exercício 5.1 - JavaScript'
+      function correctTitle(title) {
+        return (title[0].innerText = 'Exercício 5.1 - JavaScript')
+      }
+      correctTitle(title)
 
       for (const element of paragraph) {
         element.style.textTransform = 'uppercase'
