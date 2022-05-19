@@ -67,9 +67,12 @@
       }
       correctTitle(title)
 
-      for (const element of paragraph) {
-        element.style.textTransform = 'uppercase'
+      function paragraphToUppercase(paragraph) {
+        for (const element of paragraph) {
+          element.style.textTransform = 'uppercase'
+        }
       }
+      paragraphToUppercase(paragraph)
 
       for (const element of paragraph) {
         console.log(element.innerText)
