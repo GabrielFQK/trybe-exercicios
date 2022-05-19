@@ -50,7 +50,10 @@
       changeParagraph(paragraph)
 
       const mainContent = document.getElementsByClassName('main-content')
-      mainContent[0].style.backgroundColor = 'rgb(76,164,109)'
+      function changeMainContentColor(mainContent) {
+        return (mainContent[0].style.backgroundColor = 'rgb(76,164,109)')
+      }
+      changeMainContentColor(mainContent)
 
       const centerContent = document.getElementsByTagName('section')
       centerContent[0].style.backgroundColor = 'white'
