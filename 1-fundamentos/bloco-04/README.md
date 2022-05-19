@@ -6,17 +6,11 @@ Neste bloco aprendi a implementar lógica nas minhas páginas, tornando-as verda
 
 ### O que aprendi:
 
-- O que é o JavaScript (JS)?
-- De onde surgiu?
-- Qual o seu uso?
-- Variáveis.
-- Constantes.
-- Tipos primitivos.
-- Tipagem dinâmica.
-- Operadores aritméticos.
-- Operadores de atribuição.
-- Operadores lógicos.
-- Estruturas condicionais como if/else e switch/case.
+- O que é o JavaScript, de onde surgiu e qual o seu uso;
+- Variáveis, constantes, tipos primitivos, tipagem dinâmica, operadores aritméticos, operadores de atribuição, operadores lógicos, if/else e switch/case;
+- Array e for;
+- Lógica de programação e algoritmos;
+- Objetos, for/in e funções.
 
 ### Dias:
 
@@ -35,8 +29,8 @@ Neste bloco aprendi a implementar lógica nas minhas páginas, tornando-as verda
 
 #### Bloco 04 - [Dia 4](https://github.com/GabrielFQK/trybe-exercicios/tree/main/1-fundamentos/bloco-04/4-4)
 
-- [ ] 4-4: _JavaScript - Objetos e funções_
+- [x] 4-4: _JavaScript - Objetos e funções_
 
-#### Bloco 04 - [Dia 5](https://github.com/GabrielFQK/trybe-exercicios/tree/main/1-fundamentos/bloco-04/4-5)
+#### Bloco 04 - Dia 5
 
-- [ ] 4-5: _Projeto - Playground Functions_
+- [x] 4-5: _[Projeto Playground Functions](https://github.com/GabrielFQK/playground-functions)_
