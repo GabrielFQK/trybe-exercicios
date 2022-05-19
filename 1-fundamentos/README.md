@@ -43,13 +43,13 @@ Nesse primeiro módulo aprendi tudo que preciso saber para iniciar minha carreir
 
 - ##### [Projeto Lessons Learned](https://github.com/GabrielFQK/lessons-learned) :rocket:
 
-#### [Bloco 04](https://github.com/GabrielFQK/trybe-exercicios/tree/main/1-fundamentos/bloco-04): Introdução à JavaScript e Lógica de Programação :hourglass_flowing_sand:
+#### [Bloco 04](https://github.com/GabrielFQK/trybe-exercicios/tree/main/1-fundamentos/bloco-04): Introdução à JavaScript e Lógica de Programação :white_check_mark:
+
+- ##### [Projeto Playground Functions](https://github.com/GabrielFQK/playground-functions) :rocket:
+
+#### [Bloco 05](https://github.com/GabrielFQK/trybe-exercicios/tree/main/1-fundamentos/bloco-05): JavaScript: DOM, Eventos e Web Storage :hourglass_flowing_sand:
 
 <!--
-
-#### [Bloco 04](https://github.com/GabrielFQK/trybe-exercicios/tree/main/1-fundamentos/bloco-04): Introdução - JavaScript :hourglass_flowing_sand:
-
-#### [Bloco 05](https://github.com/GabrielFQK/trybe-exercicios/tree/main/1-fundamentos/bloco-05): Introdução - JavaScript - Projetos :hourglass_flowing_sand:
 
 #### [Bloco 06](https://github.com/GabrielFQK/trybe-exercicios/tree/main/1-fundamentos/bloco-06): HTML & CSS avançado :hourglass_flowing_sand:
 
