@@ -10,7 +10,7 @@ Neste bloco aprendi sobre o famoso _DOM_, a estrutura que faz a ponte entre o _H
 
 #### Bloco 05 - [Dia 1](https://github.com/GabrielFQK/trybe-exercicios/tree/main/1-fundamentos/bloco-05/5-1)
 
-- [ ] 5-1: _JavaScript - DOM e seletores_
+- [x] 5-1: _JavaScript - DOM e seletores_
 
 #### Bloco 05 - [Dia 2](https://github.com/GabrielFQK/trybe-exercicios/tree/main/1-fundamentos/bloco-05/5-2)
 
